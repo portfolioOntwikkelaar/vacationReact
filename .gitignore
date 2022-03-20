@@ -10,6 +10,9 @@
 
 # production
 /build
+/src/assets/beachVid.mp4
+/src/assets/beachVid1.mp4
+.mp4
 
 # misc
 .DS_Store
